@@ -3,7 +3,6 @@ package org.example;
 
 
 public class HelloApp {
-
     public static void main(String[] args) {
         String names = "World";
         if (args.length > 0) {
